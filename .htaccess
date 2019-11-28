@@ -1,0 +1,2 @@
+ErrorDocument 404 https://thaimooc.org/
+ErrorDocument 500 https://thaimooc.org/
